@@ -15,7 +15,7 @@ The play/pause button will do exactly as expected- it will play or pause the cur
 The reset button will completely reset everything to default, and allow you to set both break and session lengths. 
 
 ## Web App Deployment
-* If you would like to view the app itself, it's been deployed on GitHub pages! Please see [the deployed 25 + 5 Clock web app here](https://laurashultz.github.io/fcc-clock/).
+* If you would like to view the app itself, it's been deployed on GitHub pages! Please see [the deployed 25 + 5 Clock web app here](https://laurashultz.github.io/workout-interval-timer/).
 * If you are interested in downloading the project and viewing it locally, you may clone the repo, navigate to the directory, and run the command `npm start` to view it in a local environment. If the command is run in the root directory of the repository, the app will be viewable by navigating to "localhost:3000" in your web browser.
 
 ## Future Updates
